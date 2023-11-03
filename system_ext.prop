@@ -45,5 +45,11 @@ persist.radio.multisim.config=dsds
 # Sensors
 persist.vendor.sensors.enable.mag_filter=true
 
+# enable debugging
+persist.sys.usb.config=mtp,adb
+ro.adb.secure=0
+ro.secure=0
+ro.debuggable=1
+
 # Vendor
 ro.vendor.qti.va_aosp.support=1
