@@ -1,14 +1,14 @@
 [
   {
-    "repository": "AmolAmrit/device_oneplus_avicii",
+    "repository": "psavarmattas/device_oneplus_avicii-CRDroid",
     "target_path": "device/oneplus/avicii",
-    "branch": "thirteen",
+    "branch": "13.0",
     "remote": "github"
   }, 
   {
-    "repository": "AmolAmrit/Escrima_kernel_oneplus_sm7250",
+    "repository": "crdroidandroid/android_kernel_oneplus_sm7250",
     "target_path": "kernel/oneplus/sm7250",
-    "branch": "thirteen"
+    "branch": "13.0"
     "remote": "github"
   },  
   {
@@ -26,7 +26,7 @@
   {
     "repository": "AmolAmrit/hardware_oplus",
     "target_path": "hardware/oplus",
-    "branch": "thirteen",
-    "remote": "github"
+    "branch": "typhoon",
+    "remote": "gitlab"
   }
 ]
